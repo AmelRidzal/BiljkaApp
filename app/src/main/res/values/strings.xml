@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyFirstApplication</string>
+    <string name="reset">Reset</string>
+    <string name="def">DefaultText</string>
+    <string name="add">Add</string>
+    <string name="naziv">Naziv</string>
+    <string name="porodica">Porodice</string>
+    <string name="medicinskoupozorenje">MedicinskoUpozorenje</string>
+    <string name="jelo">Jelo</string>
+    <string name="dodB">Dodaj biljku</string>
+    <string name="dodJ">Dodaj jelo</string>
+    <string name="uslikajB">Uslikaj biljku</string>
+    <string name="nazad">Nazad</string>
+    <string name="stupidWarning">daje mi warning da mi ovo fali a j anecu da imam taj warning</string>
+</resources>

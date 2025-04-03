@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="izborBoja">
+        <item >
+            red
+        </item>
+        <item>
+            blue
+        </item>
+        <item>
+            yellow
+        </item>
+        <item >
+            orange
+        </item>
+        <item>
+            purple
+        </item>
+        <item>
+            brown
+        </item>
+        <item>
+            green
+        </item>
+
+    </array>
+</resources>

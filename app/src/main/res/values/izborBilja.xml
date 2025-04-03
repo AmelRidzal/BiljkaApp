@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<array name="izborBilja">
+        <item >
+        Medicinsko bilje
+        </item>
+        <item>
+        Kuharsko bilje
+        </item>
+        <item>
+        Botanicko bilje
+        </item>
+
+</array>
+</resources>
+
